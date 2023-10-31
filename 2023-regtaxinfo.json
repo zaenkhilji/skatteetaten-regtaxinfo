@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "registration_classes": [
+        "PASSENGER-CAR-UNDER-1200"
+      ],
+      "prices": [
+        {"startYear": 0, "endYear": 2011, "price": 1777},
+        {"startYear": 2012, "endYear": 2019, "price": 2961},
+        {"startYear": 2020, "endYear": 2023, "price": 4501}
+      ]
+    },
+    {
+      "registration_classes": [
+        "PASSENGER-CAR-OVER-1200"
+      ],
+      "prices": [
+        {"startYear": 0, "endYear": 2011, "price": 1777},
+        {"startYear": 2012, "endYear": 2019, "price": 4147},
+        {"startYear": 2020, "endYear": 2023, "price": 6868}
+      ]
+    },
+    {
+      "registration_classes": [
+        "MC"
+      ],
+      "prices": [
+        {"startYear": 0, "endYear": 2011, "price": 591},
+        {"startYear": 2012, "endYear": 2019, "price": 591},
+        {"startYear": 2020, "endYear": 2023, "price": 591}
+      ]
+    },
+    {
+      "registration_classes": [
+        "LIGHT-LORRY",
+        "LORRY",
+        "BUS",
+        "MINIBUS",
+        "DELIVERY-TRUCK",
+        "COMBINED-CAR"
+      ],
+      "prices": [
+        {"startYear": 0, "endYear": 2011, "price": 1186},
+        {"startYear": 2012, "endYear": 2019, "price": 1422},
+        {"startYear": 2020, "endYear": 2023, "price": 2250}
+      ]
+    },
+    {
+      "registration_classes": [
+        "TRAILER",
+        "CARAVAN"
+      ],
+      "prices": [
+        {"startYear": 0, "endYear": 2011, "price": 591},
+        {"startYear": 2012, "endYear": 2019, "price": 591},
+        {"startYear": 2020, "endYear": 2023, "price": 591}
+      ]
+    }
+  ]
+}
